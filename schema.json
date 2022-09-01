@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EntertainmentBusiness",
+  "name": "PRXDUCERZGVNG (PTY) LTD",
+  "image": "",
+  "@id": "https://prxducerzgvng.github.io",
+  "url": "https://prxducerzgvng.github.io",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18121 Mbatha",
+    "addressLocality": "Tsakane",
+    "postalCode": "1550",
+    "addressCountry": "ZA"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://twitter.com/prxducerzgvng",
+    "https://github.com/prxducerzgvng",
+    "https://prxducerzgvng.github.io",
+    "https://soundcloud.com/prxducerzgvng-pty-ltd"
+  ]
+}
