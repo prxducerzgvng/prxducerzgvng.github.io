@@ -61,7 +61,12 @@
   <!-- CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.10/css/pico.classless.min.css">
   <!-- JS -->
-  <script type="module" src="src/main.js"></script>
+  <script type="module">
+  import { createApp } from 'https://cdn.jsdelivr.net/npm/petite-vue@0.4.1/dist/petite-vue.es.js'
+  createApp({
+    
+  }).mount('#app')
+</script>
 </head>
 
 <body>
